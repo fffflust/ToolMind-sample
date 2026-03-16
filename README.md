@@ -52,7 +52,8 @@ Each instance in **ToolMind** includes a complete trajectory with multi-turn con
       }
     }
   ]
-}```
+}
+```
 
 ## 🛡️ Anonymity & Reproducibility
 This subset is provided solely for the purpose of the ACL 2026 review process. All personal identifiers and permanent repository links have been removed.
