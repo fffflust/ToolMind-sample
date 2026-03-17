@@ -1,4 +1,4 @@
-# ToolMind: A Large-Scale, Reasoning-Enhanced Tool-Use Dataset
+# TOOLMIND: A Large-Scale, High-Quality Tool-Use Dataset with Multi-Agent Simulation and Turn-Level Filtering
 
 This repository provides a data subset for ToolMind, a large-scale dataset designed to enhance the reasoning and tool-use capabilities of LLM agents.
 
