@@ -6,6 +6,7 @@ To comply with the double-blind review policy, we provide this anonymous reposit
 
 ## 📂 Repository
 sample.jsonl: 1,000 multi-turn trajectories showcasing under-specified user intents and proactive clarification processes.
+Full dataset: https://modelscope.cn/datasets/Anoymous/ToolMind
 
 ## 📊 Data Format (Schema)
 Each instance in **ToolMind** includes a complete trajectory with multi-turn conversations, tool definitions, and explicit reasoning steps. 
